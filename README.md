@@ -1,3 +1,1 @@
 # susiverse.github.io
-
-ping
