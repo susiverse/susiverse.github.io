@@ -19,6 +19,10 @@ a {
     height: 100%;
 }
 
+th {
+    text-align: left;
+}
+
 #me {
     position: absolute;
     bottom: 0;
@@ -115,4 +119,8 @@ a:link {
 .dat {
     text-align: right;
     font-size: 80%;
+}
+
+#info {
+    width: 300px;
 }
