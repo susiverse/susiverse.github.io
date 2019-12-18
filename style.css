@@ -23,6 +23,10 @@ th {
     text-align: left;
 }
 
+h5 {
+    font-size: 100%;
+    color: brown;
+}
 #me {
     position: absolute;
     bottom: 0;
@@ -34,6 +38,9 @@ th {
     transform: translate(50px, 50%);
 }
 
+ol{
+    line-height: 250%;
+}
 
 h1 {
     text-align: justify;
@@ -123,4 +130,27 @@ a:link {
 
 #info {
     width: 300px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;  
+}
+.subject {
+    width: 22%;
+    height: auto;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 10px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bottom{
+   
 }
